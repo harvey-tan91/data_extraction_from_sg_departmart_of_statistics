@@ -1,3 +1,3 @@
-# data_extraction_from_sg_departmart_of_stats
+# data_extraction_from_sg_departmart_of_statistics
 This repository contains all the codes that I have used to extract data from the Singapore Department of Statistics via the use of API.
 The same datasets can be found on my Kaggle profile < https://www.kaggle.com/harveytan >.
